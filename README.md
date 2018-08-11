@@ -13,7 +13,7 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 
 ### Extras
 - Added initial signpost with UI
-- Added Luminari font text to add more consistency to the labyrinth design
+- Added [Luminari Regular font](http://www.cufonfonts.com/font/luminari) text to add more consistency to the labyrinth design. Luminari font author: [Philip Bouwsma](https://www.fonts.com/browse/designers/philip-bouwsma)
 - Added 7 hidden coins
 - Added a score based on quantity of collected coins
 - Added a soil texture under the central tree mini maze
